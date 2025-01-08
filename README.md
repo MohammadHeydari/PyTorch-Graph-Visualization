@@ -136,6 +136,6 @@ visualize_graph(data)
 ```
 
 ## Visualization
-
+![Graph](https://github.com/MohammadHeydari/PyTorch-Graph-Visualization/blob/main/download.png)
 
 ---
